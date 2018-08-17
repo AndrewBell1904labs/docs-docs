@@ -13,3 +13,9 @@ See the link above to install nvm.
 npm v6 has made significant improvements, and you should [check it out](https://medium.com/npm-inc/announcing-npm-6-5d0b1799a905)
 
 Typically, you can update npm from the command line, but if you're using nvm, you'll want to [upgrade npm for nvm](https://stanko.github.io/nvm-updating-npm/)
+
+## Set Default NVM
+
+You can set NVM to automatically set to the stable version
+
+`nvm alias default stable`
